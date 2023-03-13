@@ -1,3 +1,4 @@
-# kecerdasan-buatan
+# Kecerdasan-Buatan
 
-implementasi kecerdasan buatan sederahana dengan menggunakan jupyter notebook, jika kesulitan silakan dijalankan melalui google colab
+Implementasi model kecerdasan buatan sederahana dengan menggunakan jupyter notebook.
+Jika kesulitan silakan dijalankan melalui google colab.
